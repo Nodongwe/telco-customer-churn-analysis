@@ -42,6 +42,19 @@ Key features:
 
 ---
 
+## Key Visualizations
+
+### Churn Distribution
+![Churn Distribution](images/churn_distribution.png)
+
+### Churn by Contract Type
+![Churn by Contract](images/churn_by_contract.png)
+
+### Churn by Tenure
+![Churn by Tenure](images/churn_by_tenure_group.png)
+
+---
+
 ## Feature Engineering
 Ceating meaningful customer segments:
 - Tenure groups (New, Early Stage, Estabkished, Loyal)
