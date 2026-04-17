@@ -50,7 +50,7 @@ Key features:
 ### Churn by Contract Type
 ![Churn by Contract](images/churn_by_contract.png)
 
-### Churn by Tenure
+### Churn by Tenure Group
 ![Churn by Tenure](images/churn_by_tenure_group.png)
 
 ---
